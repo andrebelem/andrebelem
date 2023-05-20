@@ -15,8 +15,8 @@ I am an Oceanographer, from the time when the hero was (is) Jacques Cousteau. My
  📫 How to reach me: pretty simples - my email is andrebelem@id.uff.br and you can track me on Twitter as @andrelbelem, on Linkedin (https://www.linkedin.com/in/andre-l-belem/) and ResearchGate https://www.researchgate.net/profile/Andre-Belem
  
  Let's talk ?
- 💬 Ask me about my hobbies: cooking (I'm vegetarian), taking care of plants (I help with a community garden and also take care of a small botanical garden), paddling a Hawaiian canoe, diving, taking pictures, among other things.
-⚡ Fun fact: in 2024 I will complete 30 years of Antarctica! Yes, usually at the end of each year, and on a fairly regular basis, I leave for the frozen continent, do my research, meet new people and "feel at home".
+- 💬 Ask me about my hobbies: cooking (I'm vegetarian), taking care of plants (I help with a community garden and also take care of a small botanical garden), paddling a Hawaiian canoe, diving, taking pictures, among other things.
+- ⚡ Fun fact: in 2024 I will complete 30 years of Antarctica! Yes, usually at the end of each year, and on a fairly regular basis, I leave for the frozen continent, do my research, meet new people and "feel at home".
  
 <!--
 **andrebelem/andrebelem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
