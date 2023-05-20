@@ -3,7 +3,8 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=4fE3QFcAAAAJ&hl=en)
 [![UFF Badge](https://img.shields.io/badge/UFF-Faculty-orange)](https://pesquisadores.uff.br/researcher/andre-luiz-belem)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/andre-l-belem)
-[![CV Badge](https://img.shields.io/badge/CV-Lattes-gray)](http://lattes.cnpq.br/8174173696509765)
+[![ResearchGate](https://img.shields.io/badge/My-ResearchGate-green)](https://www.researchgate.net/profile/Andre-Belem)
+[![CV Badge](https://img.shields.io/badge/CV-Lattes-red)](http://lattes.cnpq.br/8174173696509765)
 
 ### Hi there 👋
 
