@@ -1,3 +1,10 @@
+## Andre Belem
+[![GitHub Badge](https://img.shields.io/github/followers/andrebelem?style=social)](https://github.com/andrebelem?tab=followers)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=4fE3QFcAAAAJ&hl=en)
+[![UFF Badge](https://img.shields.io/badge/UFF-Faculty-orange)](https://pesquisadores.uff.br/researcher/andre-luiz-belem)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/andre-l-belem)
+[![CV Badge](https://img.shields.io/badge/CV-Lattes-gray)](http://lattes.cnpq.br/8174173696509765)
+
 ### Hi there 👋
 
 I am an Oceanographer, from the time when the hero was (is) Jacques Cousteau. My graduation focused on Geological Oceanography (B.Sc.) and Biological Oceanography (M.Sc.), both obtained at the Federal University of Rio Grande, RS Brazil in 1994 and 1997, respectively. I had the opportunity to delve deep into Polar Oceanography, with my ⚡ first Antarctic cruise in 1994 (and the second in 1995) aboard the polar icebreaker Nathaniel B. Palmer (NBP94-5 and NPB95-5), where I learned about the diversity and beauty of the ice. I followed in the footsteps of my mentor at the time and immersed myself in another fantastic experience: my PhD in Polar Oceanography, at the Alfred-Wegener Institute for Polar and Marine Research, Bremerhaven, DE, between 1997 and 2002. Back in "Terra Brasilis", I got my first post-doc at the Escola de Engenharia de São Carlos (USP) between 2007-2008 in the area of Hydrometry/Hydrology and soon after I fell in love with Paleoceanography in a post-doc at the Universidade Federal Fluminense, between 2011-2015, where I am today professor at 🔭 the School of Engineering, teaching numerical modeling and climate change to engineers.
