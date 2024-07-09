@@ -5,8 +5,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/andre-belem)
 [![ResearchGate](https://img.shields.io/badge/My-ResearchGate-green)](https://www.researchgate.net/profile/Andre-Belem)
 [![CV Badge](https://img.shields.io/badge/CV-Lattes-red)](http://lattes.cnpq.br/8174173696509765)
-[![ORCID Badge](https://img.shields.io/badge/ORCID-darkgreen)](https://orcid.org/0000-0002-8865-6180)
-[![SCOPUS Badge](https://img.shields.io/badge/SCOPUS-darkred)](https://www.scopus.com/authid/detail.uri?authorId=6603322561)
+[![ORCID Badge](https://img.shields.io/badge/My-ORCID-green)](https://orcid.org/0000-0002-8865-6180)
+[![SCOPUS Badge](https://img.shields.io/badge/My-SCOPUS-darkred)](https://www.scopus.com/authid/detail.uri?authorId=6603322561)
+[![Zenodo Badge](https://img.shields.io/badge/O2-ZENODO-blue)](https://zenodo.org/communities/oceanographicobservatory)
 
 ### Hi there 👋
 
