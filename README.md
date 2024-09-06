@@ -9,6 +9,15 @@
 [![SCOPUS Badge](https://img.shields.io/badge/My-SCOPUS-darkred)](https://www.scopus.com/authid/detail.uri?authorId=6603322561)
 [![Zenodo Badge](https://img.shields.io/badge/O2-ZENODO-blue)](https://zenodo.org/communities/oceanographicobservatory)
 
+## ⭐ My GitHub Stats
+
+<p align="center">
+<a href="https://github.com/soutobias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebelem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrebelem&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Hi there 👋
 
 I am an Oceanographer, from the time when the hero was (is) [Jacques Cousteau](https://en.wikipedia.org/wiki/Jacques_Cousteau). My graduation focused on Geological Oceanography (B.Sc.) and Biological Oceanography (M.Sc.), both obtained at the [Federal University of Rio Grande](https://www.furg.br/en/), RS Brazil in the period 1988-1993 and 1994-1997, respectively. I had the opportunity to delve deep into Polar Oceanography, with my ⚡ first Antarctic cruise in 1994 (and the second in 1995) aboard the polar icebreaker [Nathaniel B. Palmer](https://www.usap.gov/USAPgov/vesselScienceAndOperations/documents/nbp_history.pdf) (NBP94-5 and NPB95-5), where I learned about the diversity and beauty of the ice. I followed in the footsteps of my [mentor](https://www.researchgate.net/profile/Hartmut-Hellmer) at the time and immersed myself in another fantastic experience: my PhD in Polar Oceanography, at the [Alfred-Wegener Institute for Polar and Marine Research](https://www.awi.de/en/), Bremerhaven - Germany, between 1997 and 2002. Back in "Terra Brasilis", I start teaching in the State [University of Santa Cruz](http://www.uesc.br/) (Eastern Bahia, Brazil) and just after that, in Santos SP ([UNESP](https://www.clp.unesp.br/), [the extinted UNIMONTE](https://www.facebook.com/profile.php?id=100054301249073), [UniSanta](https://unisanta.br/) and later on [Senac Santos](https://www.sp.senac.br/senac-santos)), from 2003 to 2011.
