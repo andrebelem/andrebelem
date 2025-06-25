@@ -1,0 +1,3 @@
+data/** linguist-vendored
+notebooks/** linguist-documentation
+outputs/** linguist-generated
