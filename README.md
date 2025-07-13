@@ -29,5 +29,5 @@ I’m (and always) learning Python (Yea! It's an infinite learning curve! Just w
  
  Let's talk ?
 - 💬 Ask me about my hobbies: cooking (I'm vegetarian), taking care of plants (I help with a community garden and also take care of a small botanical garden). I'm also into standup paddling 🏄‍♂️, Polynesian canoe & kayak, scuba diving, outdoor photography, among other things.
-- ⚡ Fun fact: in 2024 I will complete 30 years of Antarctica! Yes, usually at the end of each year, and on a fairly regular basis, I leave for the frozen continent, do my research, meet new people and "feel at home".
+- ⚡ Fun fact: in 2024 I completed 30 years of Antarctic research! Yes, usually at the end of each year, and on a fairly regular basis, I leave for the frozen continent, do my research, meet new people and "feel at home".
  
