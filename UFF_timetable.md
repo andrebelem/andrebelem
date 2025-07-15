@@ -8,6 +8,12 @@ Escola de Engenharia<br>
 Sala E-300 (Sala de Permanência e Oficina de Microeletrônica)<br>
 Sala E-345 (Laboratório do H2O & LabCost)<br>
 
+### Semestre 2025-2
+| Horário          | Segunda-feira   | Terça-feira | Quarta-feira | Quinta-feira | Sexta-feira |
+|------------------|-----------------|-------------|--------------|--------------|-------------|
+| **Manhã**        | Lab. O2/sala 300 Bloco E  | Lab. O2/sala 300 Bloco E  | Lab. O2/sala 300 Bloco E  | Lab. O2/sala 300 Bloco E | Lab. O2/sala 300 Bloco E |
+| **Tarde**<br>**Noite**<br> | 16:00–20:00<br>**Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D<br> | 15:00–18:00<br>**Implementação de Projetos Extensionistas II - Turma Z7**<br>*Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana Comunitária*<br>**Local:** LUMAS (Atrás da BEE) | 18:00–20:00<br>**Modelagem e Otimização de Sistemas Agrícolas e Ambientais - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D<br> | Lab. O2 sala 300 Bloco E | Lab. O2 sala 300 Bloco E |
+
 ### Semestre 2025-1
 | Horário          | Segunda-feira   | Terça-feira | Quarta-feira | Quinta-feira | Sexta-feira |
 |------------------|-----------------|-------------|--------------|--------------|-------------|
