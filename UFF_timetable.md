@@ -16,8 +16,8 @@ Sala E-345 (Laboratório do H2O & LabCost)
 
 | Horário          | Segunda-feira   | Terça-feira | Quarta-feira | Quinta-feira | Sexta-feira |
 |------------------|-----------------|-------------|--------------|--------------|-------------|
-| **Manhã**        | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E |
-| **Tarde**<br>**Noite** | 16:00–20:00<br>**Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D | 15:00–18:00<br>**Implementação de Projetos Extensionistas II - Turma Z7**<br>*Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana Comunitária*<br>**Local:** LUMAS (Atrás da BEE) | 18:00–20:00<br>**Modelagem e Otimização de Sistemas Agrícolas e Ambientais - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E |
+| **Manhã**        | a partir das 10 hs<br>Sala 300 Bloco E |  a partir das 10 hs<br>Sala 300 Bloco E |  a partir das 10 hs<br>Sala 300 Bloco E  |  a partir das 10 hs<br>Sala 300 Bloco E  |  a partir das 10 hs<br>Sala 300 Bloco E  | 
+| **Tarde**<br><br>**Noite**<br>(até 20 hs) | 16:00–20:00<br>**Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D | 15:00–18:00<br>**Implementação de Projetos Extensionistas II - Turma Z7**<br>*Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana Comunitária*<br>**Local:** LUMAS (Atrás da BEE) | 18:00–20:00<br>**Modelagem e Otimização de Sistemas Agrícolas e Ambientais - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E |
 
 ---
 
