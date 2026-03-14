@@ -12,16 +12,23 @@ Sala E-345 (Laboratório do H2O & LabCost)
 
 ---
 
-## 📅 Semestre Atual — **2025-2**
+## 📅 Semestre Atual — **2026-1**
+
+| Horário | Segunda-feira | Terça-feira | Quarta-feira | Quinta-feira | Sexta-feira |
+|---|---|---|---|---|---|
+| **Manhã** | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E |
+| **Tarde / Noite** | **15:00–18:00**<br>**TER00169 – Implementação de Projetos Extensionistas II**<br>*Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana Comunitária*<br>**Turma:** Z7<br>**Local:** LUMAS (atrás da BEE) | **16:00–20:00**<br>**TER00167 – Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar**<br>**Turma:** H1<br>**Local:** LIGA – Sala 235A (Bloco D) | **15:00–18:00**<br>**TER00169 – Implementação de Projetos Extensionistas II**<br>*Criação de Elementos Educacionais com Impressão 3D*<br>**Turma:** Z9<br>**Local:** O2 – Sala 345 (Bloco E) | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E |
+
+---
+
+## 📚 Semestres Anteriores
+
+### Semestre 2025-2
 
 | Horário          | Segunda-feira   | Terça-feira | Quarta-feira | Quinta-feira | Sexta-feira |
 |------------------|-----------------|-------------|--------------|--------------|-------------|
 | **Manhã**        | a partir das 10 hs<br>Sala 300 Bloco E |  a partir das 10 hs<br>Sala 300 Bloco E |  a partir das 10 hs<br>Sala 300 Bloco E  |  a partir das 10 hs<br>Sala 300 Bloco E  |  a partir das 10 hs<br>Sala 300 Bloco E  | 
 | **Tarde**<br><br>**Noite**<br>(até 20 hs) | 16:00–20:00<br>**Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D | 15:00–18:00<br>**Implementação de Projetos Extensionistas II - Turma Z7**<br>*Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana Comunitária*<br>**Local:** LUMAS (Atrás da BEE) | 18:00–20:00<br>**Modelagem e Otimização de Sistemas Agrícolas e Ambientais - Turma H1**<br>**Local:** LIGA Sala 235A Bloco D | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E |
-
----
-
-## 📚 Semestres Anteriores
 
 ### Semestre 2025-1
 
