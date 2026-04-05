@@ -7,10 +7,6 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
-env:
-  # Resolve o aviso de depreciação do Node.js para 2026
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,16 +26,27 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install bibliometrics
-          # Cria a pasta antes para garantir que o script encontre o destino
+          
+          # Garante que a pasta existe
           mkdir -p academic_metrics
-          # O comando abaixo lê automaticamente o .bibliometrics.config.json na raiz
+          
+          # Debug: Mostra se o arquivo de config está no lugar certo
+          ls -la .bibliometrics.config.json || echo "AVISO: Arquivo de configuração não encontrado na raiz!"
+          
+          # Roda o script
           python3 -m bibliometrics
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Adiciona a pasta onde os arquivos foram gerados
-          git add academic_metrics/
-          git commit -m "Update academic stats" || echo "No changes to commit"
-          git push
+          
+          # Verifica se os arquivos foram gerados antes de tentar o commit
+          if [ -d "academic_metrics" ] && [ "$(ls -A academic_metrics)" ]; then
+            git add academic_metrics/
+            git commit -m "Update academic stats" || echo "No changes to commit"
+            git push
+          else
+            echo "Erro: Arquivos não foram gerados em academic_metrics"
+            exit 1
+          fi
