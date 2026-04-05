@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write    # IMPORTANTE: Dá permissão para o robô escrever no seu repo
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.0.0
       
       - name: Update Bibliometrics
         uses: cicirello/bibliometrics@main
