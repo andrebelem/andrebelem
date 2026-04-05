@@ -18,7 +18,7 @@ jobs:
         with:
           scholar-id: 4fE3QFcAAAAJ  # O ID que aparece na URL do seu Google Scholar
           result-path: academic_metrics     # Pasta onde a imagem será salva
-          colors: { "title": "#abd200", "text": "#e1e1e1", "background": "#1c1c1c" }
+          colors: '{"title":"#abd200","text":"#e1e1e1","background":"#1c1c1c"}'
 
       - name: Commit and Push
         run: |
