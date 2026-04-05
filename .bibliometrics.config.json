@@ -1,0 +1,12 @@
+{
+    "jsonOutputFile": "academic_metrics/bibliometrics.json",
+    "svgConfig": [
+        {
+            "background": "#1c1c1c",
+            "border": "rgba(171,210,0,0.4)",
+            "filename": "academic_metrics/scholar.svg",
+            "text": "#e1e1e1",
+            "title": "#abd200"
+        }
+    ]
+}

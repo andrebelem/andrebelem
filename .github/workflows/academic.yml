@@ -7,6 +7,10 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+env:
+  # Resolve o aviso de depreciação do Node.js para 2026
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,22 +22,24 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
       - name: Install and Run Bibliometrics
         env:
-          SCHOLAR_ID: 4fE3QFcAAAAJ  # Configura seu ID via variável de ambiente
+          SCHOLAR_ID: 4fE3QFcAAAAJ
         run: |
-          python3 -m pip install bibliometrics  # Instala o pacote
-          # Cria a pasta de destino para evitar erros
+          python3 -m pip install --upgrade pip
+          python3 -m pip install bibliometrics
+          # Cria a pasta antes para garantir que o script encontre o destino
           mkdir -p academic_metrics
-          # Executa o utilitário
+          # O comando abaixo lê automaticamente o .bibliometrics.config.json na raiz
           python3 -m bibliometrics
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Adiciona a pasta onde os arquivos foram gerados
           git add academic_metrics/
           git commit -m "Update academic stats" || echo "No changes to commit"
           git push
