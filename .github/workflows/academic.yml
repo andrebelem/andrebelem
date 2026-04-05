@@ -1,9 +1,11 @@
 name: Academic Metrics Update
 
 on:
+  push:
+    branches: [ main ]  # <--- Adicione isso
   schedule:
-    - cron: '0 0 * * *' # Roda todo dia à meia-noite
-  workflow_dispatch:     # Permite que você clique num botão para rodar agora
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
