@@ -1,0 +1,29 @@
+name: Academic Metrics Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite
+  workflow_dispatch:     # Permite que você clique num botão para rodar agora
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # IMPORTANTE: Dá permissão para o robô escrever no seu repo
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update Bibliometrics
+        uses: cicirello/bibliometrics@v1
+        with:
+          scholar-id: 4fE3QFcAAAAJ  # O ID que aparece na URL do seu Google Scholar
+          result-path: academic_metrics     # Pasta onde a imagem será salva
+          colors: { "title": "#abd200", "text": "#e1e1e1", "background": "#1c1c1c" }
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add academic_metrics/
+          git commit -m "Update academic stats" || echo "No changes to commit"
+          git push

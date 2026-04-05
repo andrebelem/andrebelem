@@ -9,13 +9,10 @@
 [![SCOPUS Badge](https://img.shields.io/badge/My-SCOPUS-darkred)](https://www.scopus.com/authid/detail.uri?authorId=6603322561)
 [![Zenodo Badge](https://img.shields.io/badge/O2-ZENODO-blue)](https://zenodo.org/communities/oceanographicobservatory)
 
-## ⭐ My GitHub Stats
+## ⭐ My Academic Stats
 
 <p align="center">
-  <a href="https://github.com/andrebelem">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andrebelem&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebelem&layout=compact&langs_count=8&theme=merko"/>
-  </a>
+  <img src="academic_metrics/scholar.svg" alt="Google Scholar Stats">
 </p>
 
 ### Hi there 👋
