@@ -2,7 +2,7 @@ name: Academic Metrics Update
 
 on:
   push:
-    branches: [ main ]  # <--- Adicione isso
+    branches: [ main ]
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -11,18 +11,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # IMPORTANTE: Dá permissão para o robô escrever no seu repo
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Update Bibliometrics
-        uses: cicirello/bibliometrics@v4.0.0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          scholar-id: 4fE3QFcAAAAJ
-          result-path: academic_metrics
-          colors-title: '#abd200'
-          colors-text: '#e1e1e1'
-          colors-background: '#1c1c1c'
+          python-version: '3.x'
+
+      - name: Install and Run Bibliometrics
+        env:
+          SCHOLAR_ID: 4fE3QFcAAAAJ  # Configura seu ID via variável de ambiente
+        run: |
+          python3 -m pip install bibliometrics  # Instala o pacote
+          # Cria a pasta de destino para evitar erros
+          mkdir -p academic_metrics
+          # Executa o utilitário
+          python3 -m bibliometrics
 
       - name: Commit and Push
         run: |
