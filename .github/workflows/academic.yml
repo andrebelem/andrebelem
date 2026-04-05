@@ -16,9 +16,11 @@ jobs:
       - name: Update Bibliometrics
         uses: cicirello/bibliometrics@v1
         with:
-          scholar-id: 4fE3QFcAAAAJ  # O ID que aparece na URL do seu Google Scholar
-          result-path: academic_metrics     # Pasta onde a imagem será salva
-          colors: '{"title":"#abd200","text":"#e1e1e1","background":"#1c1c1c"}'
+          scholar-id: 4fE3QFcAAAAJ
+          result-path: academic_metrics
+          colors-title: '#abd200'
+          colors-text: '#e1e1e1'
+          colors-background: '#1c1c1c'
 
       - name: Commit and Push
         run: |
