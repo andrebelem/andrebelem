@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Update Bibliometrics
-        uses: cicirello/bibliometrics@v4
+        uses: cicirello/bibliometrics@main
         with:
           scholar-id: 4fE3QFcAAAAJ
           result-path: academic_metrics
