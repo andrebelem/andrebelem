@@ -1,6 +1,6 @@
 # Horários de Atendimento Acadêmico
 
-### <img src='Andre_Belem_E300.jpg' height=200px></img> Prof. [André L. Belém](https://www.github.com/andrebelem) (*Dr.rer.nat.*) <br>
+### <img src='assets/Andre_Belem_E300.jpg' height=200px></img> Prof. [André L. Belém](https://www.github.com/andrebelem) (*Dr.rer.nat.*) <br>
 
 E-mail: [andrebelem@id.uff.br](mailto:andrebelem@id.uff.br)  
 [Departamento de Engenharia Agrícola e Meio Ambiente](http://www.ter.sites.uff.br)  
