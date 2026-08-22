@@ -8,7 +8,7 @@ Escola de Engenharia
 Sala E-300 (Sala de Permanência e Oficina de Microeletrônica)  
 Sala E-345 (Laboratório do H2O & LabCost)  
 
-> ⚠️ **Atendimentos extra-classe devem ser previamente agendados por e-mail.**  
+> ⚠️ **Em razão da participação simultânea em diversas comissões e atividades remotas, reuniões presenciais NÃO podem ser garantidas sem agendamento prévio.** Solicito que todo atendimento presencial seja **necessariamente agendado por e-mail com antecedência**, a fim de assegurar disponibilidade de horário e local.
 
 ---
 
@@ -16,7 +16,7 @@ Sala E-345 (Laboratório do H2O & LabCost)
 
 | Horário | Segunda-feira | Terça-feira | Quarta-feira | Quinta-feira | Sexta-feira |
 |---|---|---|---|---|---|
-| **Manhã** | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E | a partir das 10 hs<br>Sala 300 Bloco E |
+| **Manhã** | a partir das 8 hs<br>Sala 300 Bloco E | a partir das 8 hs<br>Sala 300 Bloco E | a partir das 8 hs<br>Sala 300 Bloco E | a partir das 8 hs<br>Sala 300 Bloco E | a partir das 8 hs<br>Sala 300 Bloco E |
 | **Tarde / Noite** | **15:00–18:00**<br>**TER00188 – Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana**<br>**Turma:** AB<br>**Local:** LUMAS | **16:00–20:00**<br>**TER00167 – Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar**<br>**Turma:** H1<br>**Local:** LIGA – Sala 235A (Bloco D) | Lab. O2 / Sala 300 Bloco E | Lab. O2 / Sala 300 Bloco E | **14:00–17:00**<br>**TER00187 – Criação de Elementos Educacionais com Impressão 3D**<br>**Turma:** AA<br>**Local:** Sala 345 (Bloco E) |
 
 ---
